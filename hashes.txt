@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Softly Bleeding Inside Out
+
+This log tracks the cryptographic history and versioning for the song **Softly Bleeding Inside Out** (softly-bleeding-inside-out).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-10T18:23:04.593092 | `v1` | `8026e29b11ba7895716a8ae5e129bcc68973376ecb16f29c44a6ba38117d1c80` | `3a8b576f0b4f581e67cf18394ab909a6313007965d29005eabb1a90cf0c4dbeb` | `2026-06-10_softly-bleeding-inside-out-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
