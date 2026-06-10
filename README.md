@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/softly-bleeding-inside-out/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Softly Bleeding Inside Out](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/softly-bleeding-inside-out/) |
+| **Get License** | [Get License For Softly Bleeding Inside Out](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/softly-bleeding-inside-out/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the heat beneath the shadows of the room
+> Every time your eyes catch mine across the fading moon
+> There’s a quiet fire pulling me into your space
+> And I’m softly bleeding inside out just looking at your face
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
